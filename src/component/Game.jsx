@@ -68,7 +68,7 @@ export const Game = () => {
 
     useEffect(() => {
         checkWinner(board);
-      }, [board, checkWinner]);
+    }, [board, checkWinner]);
   
 
     const resetGame = () => {
