@@ -14,5 +14,5 @@ A **1-player Tic-Tac-Toe game** built with **React** where the player competes a
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/Pritheedas01/stackbox-assignment.git
+npm run start
